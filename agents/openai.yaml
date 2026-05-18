@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mr-x-venture-advisor-skill"
+  short_description: "创业项目阶段诊断与行动建议"
+  default_prompt: "使用 $Mr-x-venture-advisor-skill 帮我判断这个创业项目现在处于什么阶段、主要风险是什么、下一步该做什么。"
